@@ -10,6 +10,7 @@ public class aralikTopla {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(topla(1,100));	
+		System.out.println(topla(1,100));
+		//System.out.println(topla(10,20));
 	}
 }

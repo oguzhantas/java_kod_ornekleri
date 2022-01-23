@@ -1,6 +1,4 @@
-
 public class otomobil {
-	
 	String renk; //özellik
 	int vitesSayisi; //özellik
 	String yakitTipi; //özellik
@@ -39,7 +37,8 @@ public class otomobil {
 		Mercedes.hizlan(30);
 		Mercedes.hizGoster();
 		Mercedes.yavasla(15);
-		Mercedes.hizGoster();		
+		Mercedes.hizGoster();
+	
 		
 	}
 
