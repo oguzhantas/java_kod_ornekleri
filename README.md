@@ -13,4 +13,3 @@ Sınavda başarılar dilerim.
 Öğr. Gör. Oğuzhan TAŞ
 Beykent Üniversitesi 2021-2022 
 E-posta: oguzhantas@gmail.com
-E-posta: oguzhantas@beykent.edu.tr
